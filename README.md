@@ -1,6 +1,8 @@
-#  Here is **Henok's** Page
-### *Full Stack Developer | Building Scalable Web Apps*
-Full Stack Developer based in **Ethiopia**, specializing in **React**, **Node.js**, and **.NET** .
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+Henok's+Territory" />
+</h1>
+### *Backend and Mobile Developer | Building Scalable Web Apps*
+Backend and Mobile Developer based in **Ethiopia**, specializing in **React**, **Node.js**, and **.NET** .
 
 ---
 
@@ -15,6 +17,10 @@ Full Stack Developer based in **Ethiopia**, specializing in **React**, **Node.js
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
