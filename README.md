@@ -27,12 +27,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ---
 
-## 📈 GitHub Stats
-
-![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenokJs&show_icons=true&theme=radical)
-
----
-
 ## 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/henok_wty)
