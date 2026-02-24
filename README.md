@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+Henok's+Territory" />
 </h1>
 
-### *Backend and Mobile Developer | Building Scalable Web Apps* Backend and Mobile Developer based in **Ethiopia**, specializing in **React**, **Node.js**, and **.NET** .
+### *Backend and Mobile Developer | 
+Building Scalable Web Apps* Backend and Mobile Developer based in **Ethiopia**, specializing in **React**, **Node.js**, and **.NET** .
 
 ---
 
