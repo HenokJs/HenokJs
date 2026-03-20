@@ -3,7 +3,7 @@
 </h1>
 
 ### Backend and Mobile Developer
-Building Scalable Web Apps* Backend and Mobile Developer based in **Ethiopia**, specializing in **React**, **Node.js**, and **.NET** .
+Building Scalable Web Apps Backend and Mobile Developer based in **Ethiopia**, specializing in **React**, **Node.js**, and **.NET** .
 
 
 ## 🔥 Tech Stack
